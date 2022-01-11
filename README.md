@@ -6,6 +6,6 @@ by David Eriksson, Artur Schneider, Anupriya Thirumalai, Mansour Alyahyay, Brice
 #####
 This code loads a subset of the (artefact removed) raw data used to create figure 4A.
 
-The second dimension: time (edges), is -5*30:10*30, that is, 5 milliseconds
+The second dimension: time (edges), is -150:300, that is, 5 milliseconds
 before light onset and 10 milliseconds after light onset, when sampled at 30 kHz.
 ycoords: is the depth in micrometer of the probe.
